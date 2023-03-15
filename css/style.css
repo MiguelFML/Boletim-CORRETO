@@ -1,0 +1,90 @@
+@import url("nav.css");
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("https://wallpaperaccess.com/full/3511957.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.retangulopai{
+    width: 700px;
+    height: 700px;
+    margin-left: 600px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+}
+.retangulo1{
+    width: 575px;
+    height: 100px;
+    margin-left: 8px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color:darkorchid;
+
+}
+
+.retangulo2{
+    width: 575px;
+    height: 100px;
+    margin-left: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color:darkcyan;
+
+}
+.retangulo3{
+    width: 575px;
+    height: 100px;
+    margin-left: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color:gold;
+}
+.retangulo4{
+    width: 575px;
+    height: 100px;
+    margin-left: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+.retangulo5{
+    width: 575px;
+    height: 100px;
+    margin-left: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color:limegreen;
+}
+.retangulo6{
+    width: 575px;
+    height: 100px;
+    margin-left: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color:red;
+}
